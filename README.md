@@ -19,3 +19,4 @@ The Marketing Team at CodeX is keen on transforming these survey results into ac
 1. **Purchasing Habits:** Analyze the frequency of energy drink purchases among consumers in different demographics.
 2. **Feedback on Existing Brands:** Evaluate consumer feedback
 
+## Live Dashboard : https://www.novypro.com/project/market-insights
